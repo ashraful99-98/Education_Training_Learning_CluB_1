@@ -1,0 +1,14 @@
+.single-div{
+    max-width: 1100px;
+    border: 1px sold gray;
+}
+.star{
+    color: gold;
+}
+.smaill-text{
+    display: flex;
+    justify-content: space-evenly;
+}
+.small-icon{
+    color: red;
+}

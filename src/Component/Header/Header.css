@@ -1,0 +1,29 @@
+.header{
+    background-color: #27293D;
+}
+ .container{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo h4{
+    color: #fff;
+}
+.logo-img{
+    width: 100px;
+    height: 100px;
+}
+.nav-child{
+    text-decoration: none;
+    padding: 0 20px;
+    color: #fff;
+}
+.nav-child:hover{
+    background-color: #fff;
+    color: blue;
+    padding: 15px;
+    border-radius: 10px;
+}

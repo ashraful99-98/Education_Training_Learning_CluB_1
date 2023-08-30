@@ -1,0 +1,90 @@
+.main-section{
+    background-image: url(../../images/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;   
+}
+.section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+.section div{
+    width: 70%;
+    color: #fff;
+}
+.section div h1{
+    font-size: 50px;
+}
+.section div p{
+    font-size: 18px;
+    letter-spacing: 1.2px;
+}
+ div .section-btn{
+     text-decoration: none;
+    background-color: #dd2612;
+    color: #fff;
+    border: none;
+    padding: 7px 20px;
+}
+.section-btn:hover{
+    color: #fff;
+}
+/* Courses */
+.courses{
+    background-color: #ECF0F1;
+    padding: 60px 0;
+}
+.course-list{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: justify;
+}
+.small-nav{
+    color: blue;
+}
+.small-nav:hover{
+    color: red;
+}
+/* Services */
+.services{
+    margin: 100px  0;
+}
+.services h1{
+    color: #1B3042;
+    font-size: 70px;
+    text-shadow: 5px 10px 10px gray;
+}
+.services h2{
+    color: #1B3042;
+}
+.services p{
+    color: #1B3042;
+    margin-bottom: 50px;
+}
+.browse-div{
+    margin-top: 70px;
+}
+.browse-btn{
+   text-decoration: none;
+   background-color: #dd2612;
+   padding: 7px 15px;
+   color: #fff;
+}
+/* Awards */
+.awards{
+    width: 100%;
+    padding: 30px;
+}
+.awards h1{
+    color: #1B3042;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.award img{
+    margin-right: 30px;
+    
+}

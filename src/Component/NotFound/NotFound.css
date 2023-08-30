@@ -1,0 +1,15 @@
+.not-found{
+  height: 100vh;
+}
+.not-found h1{
+  font-size: 50px;
+  font-weight: 900;
+  padding-bottom: 20px;
+}
+.not-found h2{
+    font-size: 35px;
+}
+.emoji{
+    width: 350px;
+    height: 350px;
+}

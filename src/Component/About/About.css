@@ -1,0 +1,57 @@
+.about-section{
+    padding: 40px 0;
+}
+.about-section h1{
+   font-size: 70px;
+   border-bottom: 3px dotted gray;
+   padding-bottom: 20px;
+}
+.about-info{
+    display: flex;
+    text-align: left;
+}
+.about-info div{
+    margin: 10px;
+    padding: 20px;
+}
+/* Cart Informalion  */
+.cart{
+    padding: 20px;
+}
+.cart-info{
+   padding: 10px;
+}
+.cart-info .cart-img{
+    width: 200px;
+    height:200px;
+}
+/* Best Course */
+.best-course-section{
+    background-color: #27293D;
+    padding: 40px;
+}
+.best-course{
+    display: flex;
+    text-align: left;
+}
+.best-course div{
+    padding: 0 15px;
+    border-left: 3px solid gray;
+    color: #fff;
+}
+.best-course div h1{
+    font-size: 50px;
+}
+/* Experts  */
+.experts{
+    padding: 40px 0;
+}
+.experts div h1{
+    font-size: 60px;
+    border-bottom: 2px dotted gray;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+.small-title{
+    color: red;
+}
